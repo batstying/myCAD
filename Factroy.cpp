@@ -1,0 +1,28 @@
+// Factroy.cpp: implementation of the CFactroy class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "myCAD.h"
+#include "Factroy.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+CFactroy::CFactroy()
+{
+
+}
+
+CFactroy::~CFactroy()
+{
+
+}
+
